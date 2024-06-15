@@ -7,7 +7,7 @@ Blockchain dark forest selfguard handbook<br>
 :kr:한국어 버전：[블록체인 다크 포레스트 셀프가드 핸드북](README_KR.md)<br>
 *Note: V1, Update Logs, please see the Chinese version.*
 
-Author: Cos@SlowMist Team<br>
+Author: #Cos@SlowMist Team<br>
 Contact me：Twitter([@evilcos](https://twitter.com/evilcos))、即刻(@余弦.jpg)
 
 Translator: 
